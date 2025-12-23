@@ -184,5 +184,4 @@ This project is suitable for:
 
 ---
 
-**Author:** Project for Machine Learning–based Log Anomaly Detection
 
